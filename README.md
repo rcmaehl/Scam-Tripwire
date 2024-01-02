@@ -1,5 +1,7 @@
 # Scam-Tripwire
-Protect your loved ones from Scams. Even when you can't physically be there
+Protect your loved ones from Scams, Even when you can't physically be there
+
+![image](https://github.com/rcmaehl/Scam-Tripwire/assets/716581/7f9dc8eb-2124-4840-97c0-03964a550242)
 
 ----
 
